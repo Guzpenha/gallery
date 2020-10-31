@@ -1,228 +1,156 @@
 {
   "Delft Streets I": [
     {
-      "height": 5117,
-      "compressed_path": "./photos/Delft Streets I/DSCF2190.min.jpg",
-      "width": 3411,
+      "height": 3348,
+      "compressed_path": "./photos/Delft Streets I/1.min.jpg",
+      "width": 4459,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF2190.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF2190.jpg"
-    },
-    {
-      "height": 4226,
-      "compressed_path": "./photos/Delft Streets I/DSCF2257.min.jpg",
-      "width": 3173,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF2257.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF2257.jpg"
-    },
-    {
-      "height": 5328,
-      "compressed_path": "./photos/Delft Streets I/DSCF2702.min.jpg",
-      "width": 4000,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF2702.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF2702.jpg"
-    },
-    {
-      "height": 4486,
-      "compressed_path": "./photos/Delft Streets I/DSCF2791.min.jpg",
-      "width": 3368,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF2791.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF2791.jpg"
-    },
-    {
-      "height": 3141,
-      "compressed_path": "./photos/Delft Streets I/DSCF3595.min.jpg",
-      "width": 4184,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF3595.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF3595.jpg"
-    },
-    {
-      "height": 4000,
-      "compressed_path": "./photos/Delft Streets I/DSCF3888.min.jpg",
-      "width": 5328,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF3888.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF3888.jpg"
-    },
-    {
-      "height": 5103,
-      "compressed_path": "./photos/Delft Streets I/DSCF4293.min.jpg",
-      "width": 3831,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4293.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4293.jpg"
-    },
-    {
-      "height": 3124,
-      "compressed_path": "./photos/Delft Streets I/DSCF4366.min.jpg",
-      "width": 2345,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4366.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4366.jpg"
-    },
-    {
-      "height": 1747,
-      "compressed_path": "./photos/Delft Streets I/DSCF4409.min.jpg",
-      "width": 3695,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4409.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4409.jpg"
+      "placeholder_path": "./photos/Delft Streets I/1.placeholder.jpg",
+      "path": "./photos/Delft Streets I/1.jpg"
     },
     {
       "height": 4964,
-      "compressed_path": "./photos/Delft Streets I/DSCF4503.min.jpg",
+      "compressed_path": "./photos/Delft Streets I/10.min.jpg",
       "width": 3727,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4503.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4503.jpg"
+      "placeholder_path": "./photos/Delft Streets I/10.placeholder.jpg",
+      "path": "./photos/Delft Streets I/10.jpg"
     },
     {
       "height": 4000,
-      "compressed_path": "./photos/Delft Streets I/DSCF4732.min.jpg",
+      "compressed_path": "./photos/Delft Streets I/11.min.jpg",
       "width": 3003,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4732.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4732.jpg"
-    },
-    {
-      "height": 3898,
-      "compressed_path": "./photos/Delft Streets I/DSCF4739.min.jpg",
-      "width": 2926,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4739.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4739.jpg"
-    },
-    {
-      "height": 5159,
-      "compressed_path": "./photos/Delft Streets I/DSCF4748.min.jpg",
-      "width": 3873,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4748.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4748.jpg"
-    },
-    {
-      "height": 4000,
-      "compressed_path": "./photos/Delft Streets I/DSCF4762.min.jpg",
-      "width": 5328,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4762.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4762.jpg"
-    },
-    {
-      "height": 3937,
-      "compressed_path": "./photos/Delft Streets I/DSCF4766.min.jpg",
-      "width": 2956,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4766.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4766.jpg"
+      "placeholder_path": "./photos/Delft Streets I/11.placeholder.jpg",
+      "path": "./photos/Delft Streets I/11.jpg"
     },
     {
       "height": 3053,
-      "compressed_path": "./photos/Delft Streets I/DSCF4775.min.jpg",
+      "compressed_path": "./photos/Delft Streets I/12.min.jpg",
       "width": 4066,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4775.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4775.jpg"
-    },
-    {
-      "height": 3348,
-      "compressed_path": "./photos/Delft Streets I/DSCF4791.min.jpg",
-      "width": 4459,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4791.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4791.jpg"
-    },
-    {
-      "height": 3642,
-      "compressed_path": "./photos/Delft Streets I/DSCF4802.min.jpg",
-      "width": 4851,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4802.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4802.jpg"
-    },
-    {
-      "height": 3808,
-      "compressed_path": "./photos/Delft Streets I/DSCF4807.min.jpg",
-      "width": 5072,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4807.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4807.jpg"
-    },
-    {
-      "height": 4513,
-      "compressed_path": "./photos/Delft Streets I/DSCF4840.min.jpg",
-      "width": 3388,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4840.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4840.jpg"
+      "placeholder_path": "./photos/Delft Streets I/12.placeholder.jpg",
+      "path": "./photos/Delft Streets I/12.jpg"
     },
     {
       "height": 3809,
-      "compressed_path": "./photos/Delft Streets I/DSCF4986.min.jpg",
+      "compressed_path": "./photos/Delft Streets I/13.min.jpg",
       "width": 5074,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4986.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4986.jpg"
+      "placeholder_path": "./photos/Delft Streets I/13.placeholder.jpg",
+      "path": "./photos/Delft Streets I/13.jpg"
     },
     {
-      "height": 3125,
-      "compressed_path": "./photos/Delft Streets I/DSCF4993.min.jpg",
-      "width": 4163,
+      "height": 5159,
+      "compressed_path": "./photos/Delft Streets I/14.min.jpg",
+      "width": 3873,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF4993.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF4993.jpg"
+      "placeholder_path": "./photos/Delft Streets I/14.placeholder.jpg",
+      "path": "./photos/Delft Streets I/14.jpg"
+    },
+    {
+      "height": 4513,
+      "compressed_path": "./photos/Delft Streets I/15.min.jpg",
+      "width": 3388,
+      "compressed": false,
+      "placeholder_path": "./photos/Delft Streets I/15.placeholder.jpg",
+      "path": "./photos/Delft Streets I/15.jpg"
+    },
+    {
+      "height": 3141,
+      "compressed_path": "./photos/Delft Streets I/16.min.jpg",
+      "width": 4184,
+      "compressed": false,
+      "placeholder_path": "./photos/Delft Streets I/16.placeholder.jpg",
+      "path": "./photos/Delft Streets I/16.jpg"
+    },
+    {
+      "height": 3642,
+      "compressed_path": "./photos/Delft Streets I/17.min.jpg",
+      "width": 4851,
+      "compressed": false,
+      "placeholder_path": "./photos/Delft Streets I/17.placeholder.jpg",
+      "path": "./photos/Delft Streets I/17.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Delft Streets I/18.min.jpg",
+      "width": 5328,
+      "compressed": false,
+      "placeholder_path": "./photos/Delft Streets I/18.placeholder.jpg",
+      "path": "./photos/Delft Streets I/18.jpg"
+    },
+    {
+      "height": 3808,
+      "compressed_path": "./photos/Delft Streets I/19.min.jpg",
+      "width": 5072,
+      "compressed": false,
+      "placeholder_path": "./photos/Delft Streets I/19.placeholder.jpg",
+      "path": "./photos/Delft Streets I/19.jpg"
     },
     {
       "height": 5328,
-      "compressed_path": "./photos/Delft Streets I/DSCF5003.min.jpg",
+      "compressed_path": "./photos/Delft Streets I/2.min.jpg",
       "width": 4000,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF5003.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF5003.jpg"
-    },
-    {
-      "height": 5328,
-      "compressed_path": "./photos/Delft Streets I/DSCF5269.min.jpg",
-      "width": 4000,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF5269.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF5269.jpg"
+      "placeholder_path": "./photos/Delft Streets I/2.placeholder.jpg",
+      "path": "./photos/Delft Streets I/2.jpg"
     },
     {
       "height": 4595,
-      "compressed_path": "./photos/Delft Streets I/DSCF5280.min.jpg",
+      "compressed_path": "./photos/Delft Streets I/3.min.jpg",
       "width": 3657,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF5280.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF5280.jpg"
+      "placeholder_path": "./photos/Delft Streets I/3.placeholder.jpg",
+      "path": "./photos/Delft Streets I/3.jpg"
     },
     {
       "height": 5328,
-      "compressed_path": "./photos/Delft Streets I/DSCF5320.min.jpg",
+      "compressed_path": "./photos/Delft Streets I/4.min.jpg",
       "width": 4000,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF5320.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF5320.jpg"
+      "placeholder_path": "./photos/Delft Streets I/4.placeholder.jpg",
+      "path": "./photos/Delft Streets I/4.jpg"
     },
     {
       "height": 4000,
-      "compressed_path": "./photos/Delft Streets I/DSCF5339.min.jpg",
+      "compressed_path": "./photos/Delft Streets I/5.min.jpg",
       "width": 5328,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF5339.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF5339.jpg"
+      "placeholder_path": "./photos/Delft Streets I/5.placeholder.jpg",
+      "path": "./photos/Delft Streets I/5.jpg"
+    },
+    {
+      "height": 3124,
+      "compressed_path": "./photos/Delft Streets I/6.min.jpg",
+      "width": 2345,
+      "compressed": false,
+      "placeholder_path": "./photos/Delft Streets I/6.placeholder.jpg",
+      "path": "./photos/Delft Streets I/6.jpg"
+    },
+    {
+      "height": 5103,
+      "compressed_path": "./photos/Delft Streets I/7.min.jpg",
+      "width": 3831,
+      "compressed": false,
+      "placeholder_path": "./photos/Delft Streets I/7.placeholder.jpg",
+      "path": "./photos/Delft Streets I/7.jpg"
+    },
+    {
+      "height": 1747,
+      "compressed_path": "./photos/Delft Streets I/8.min.jpg",
+      "width": 3695,
+      "compressed": false,
+      "placeholder_path": "./photos/Delft Streets I/8.placeholder.jpg",
+      "path": "./photos/Delft Streets I/8.jpg"
     },
     {
       "height": 4000,
-      "compressed_path": "./photos/Delft Streets I/DSCF5404-3.min.jpg",
+      "compressed_path": "./photos/Delft Streets I/9.min.jpg",
       "width": 5328,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets I/DSCF5404-3.placeholder.jpg",
-      "path": "./photos/Delft Streets I/DSCF5404-3.jpg"
+      "placeholder_path": "./photos/Delft Streets I/9.placeholder.jpg",
+      "path": "./photos/Delft Streets I/9.jpg"
     }
   ]
 }
