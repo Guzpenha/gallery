@@ -40,13 +40,16 @@ class Renderer {
     return this._rootElem;
   }
 
-  createHeader(title) {
-    var sectionElem = document.createElement('section');
-    sectionElem.id = title;
-    var header = document.createElement('h3');
-    header.innerHTML = title;
-    sectionElem.appendChild(header);
-    return sectionElem;
+  createHeader(title, description) {
+      var sectionElem = document.createElement('section');
+      sectionElem.id = title;
+      var header = document.createElement('h3');
+      header.innerHTML = title;
+      sectionElem.appendChild(header);
+      var descriptionParagraph = document.createElement('p');
+      descriptionParagraph.innerHTML = description
+      sectionElem.appendChild(descriptionParagraph);
+      return sectionElem;    
   }
 
   createImageElement(photo, width, height, spacing) {
@@ -90,7 +93,7 @@ class VerticalRenderer extends Renderer {
    * Creates one album
    */
   createSection(config, section, photos) {
-    var sectionElem = this.createHeader(section);
+    var sectionElem = this.createHeader(section, config.data[section+"_description"]);
     var length = config.columns
     var width = (this._currentWidth - config.spacing * (config.columns-1)) * 1.0 / config.columns;
 
@@ -175,7 +178,7 @@ class SquareRenderer extends Renderer {
    * Creates an album section
    */
   createSection(config, section, photos) {
-    var sectionElem = this.createHeader(section);
+    var sectionElem = this.createHeader(section, config.data[section+"_description"]);
 
     // In column format, we want to precompute the height of each cell, so that
     // the last row can have a matching width and align itself to rows above.
@@ -251,10 +254,12 @@ class SquareRenderer extends Renderer {
 class HorizontalRenderer extends Renderer {
   render(config) {
     for (var section in config.data) {
-      var section = this.createSection(config,
-        section,
-        this.getPhotos(config, config.photos(section)));
-      this.rootElem().appendChild(section);
+      if(!section.includes("_description")){
+        var section = this.createSection(config,
+          section,
+          this.getPhotos(config, config.photos(section)));
+        this.rootElem().appendChild(section);
+      }
     }
   }
 
@@ -265,7 +270,7 @@ class HorizontalRenderer extends Renderer {
     if (config.shuffle) {
       shuffle(photos);
     }
-    var sectionElem = this.createHeader(section);
+    var sectionElem = this.createHeader(section, config.data[section+"_description"]);
 
     while (photos.length > 0) {
       var maxWidth = config.spacing * -1;

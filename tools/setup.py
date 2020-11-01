@@ -48,7 +48,10 @@ def get_path(path, ext):
     return re.sub(r'\.(png|jpe?g)$', '.' + ext + '.\g<1>', path)
 
 
-def get_images(path):
+def get_images(path):    
+    with open(PHOTO_PATH + '/' + path + "/description.txt","r") as f: 
+        description = f.read().splitlines()
+
     items = os.listdir(PHOTO_PATH + '/' + path)
     filtered_items = list(filter(is_original, items))
 
@@ -69,7 +72,7 @@ def get_images(path):
             'compressed': has_compressed,
             'placeholder_path': get_placeholder_path(p)
         })
-    return result
+    return result, description
 
 
 def write_config(config):
@@ -85,7 +88,8 @@ def run():
     for i, path in enumerate(dirs):
         print(str(i+1) + ': Processing photos for the album "{album}"'.format(
             album=path))
-        config[path] = get_images(path)
+        config[path], description = get_images(path)
+        config[path+"_description"]= description
 
         print('   Done processing {l} photos for "{album}"\n'.format(
             l=len(config[path]),
