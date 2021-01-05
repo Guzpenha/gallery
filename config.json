@@ -1,44 +1,12 @@
 {
   "Delft Streets": [
     {
-      "height": 3141,
-      "compressed_path": "./photos/Delft Streets/DSCF3595.min.jpg",
-      "width": 4184,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets/DSCF3595.placeholder.jpg",
-      "path": "./photos/Delft Streets/DSCF3595.jpg"
-    },
-    {
-      "height": 3124,
-      "compressed_path": "./photos/Delft Streets/DSCF4366.min.jpg",
-      "width": 2345,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets/DSCF4366.placeholder.jpg",
-      "path": "./photos/Delft Streets/DSCF4366.jpg"
-    },
-    {
-      "height": 3679,
-      "compressed_path": "./photos/Delft Streets/DSCF4409.min.jpg",
-      "width": 4905,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets/DSCF4409.placeholder.jpg",
-      "path": "./photos/Delft Streets/DSCF4409.jpg"
-    },
-    {
       "height": 3348,
       "compressed_path": "./photos/Delft Streets/DSCF4791.min.jpg",
       "width": 4459,
       "compressed": false,
       "placeholder_path": "./photos/Delft Streets/DSCF4791.placeholder.jpg",
       "path": "./photos/Delft Streets/DSCF4791.jpg"
-    },
-    {
-      "height": 4513,
-      "compressed_path": "./photos/Delft Streets/DSCF4840.min.jpg",
-      "width": 3388,
-      "compressed": false,
-      "placeholder_path": "./photos/Delft Streets/DSCF4840.placeholder.jpg",
-      "path": "./photos/Delft Streets/DSCF4840.jpg"
     },
     {
       "height": 4271,
@@ -65,79 +33,92 @@
       "path": "./photos/Delft Streets/DSCF5959.jpg"
     },
     {
-      "height": 4000,
-      "compressed_path": "./photos/Delft Streets/DSCF6078.min.jpg",
-      "width": 5328,
+      "height": 3463,
+      "compressed_path": "./photos/Delft Streets/L1000061.min.jpg",
+      "width": 5195,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets/DSCF6078.placeholder.jpg",
-      "path": "./photos/Delft Streets/DSCF6078.jpg"
+      "placeholder_path": "./photos/Delft Streets/L1000061.placeholder.jpg",
+      "path": "./photos/Delft Streets/L1000061.jpg"
     },
     {
-      "height": 4000,
-      "compressed_path": "./photos/Delft Streets/DSCF6098.min.jpg",
-      "width": 5333,
+      "height": 2789,
+      "compressed_path": "./photos/Delft Streets/R0037167.min.jpg",
+      "width": 3718,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets/DSCF6098.placeholder.jpg",
-      "path": "./photos/Delft Streets/DSCF6098.jpg"
+      "placeholder_path": "./photos/Delft Streets/R0037167.placeholder.jpg",
+      "path": "./photos/Delft Streets/R0037167.jpg"
     },
     {
-      "height": 3669,
-      "compressed_path": "./photos/Delft Streets/DSCF6609.min.jpg",
-      "width": 4887,
+      "height": 2908,
+      "compressed_path": "./photos/Delft Streets/R0037169.min.jpg",
+      "width": 3877,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets/DSCF6609.placeholder.jpg",
-      "path": "./photos/Delft Streets/DSCF6609.jpg"
+      "placeholder_path": "./photos/Delft Streets/R0037169.placeholder.jpg",
+      "path": "./photos/Delft Streets/R0037169.jpg"
+    }
+  ],
+  "Ulisses' Bonsais_description": [
+    "I spent December of 2020 photographing my father's bonsais at our house in Belo Horizonte, Brazil. We bought a cheap black cloth and took all photographs with natural light."
+  ],
+  "Ulisses' Bonsais": [
+    {
+      "height": 2043,
+      "compressed_path": "./photos/Ulisses' Bonsais/L1000612.min.jpg",
+      "width": 2043,
+      "compressed": false,
+      "placeholder_path": "./photos/Ulisses' Bonsais/L1000612.placeholder.jpg",
+      "path": "./photos/Ulisses' Bonsais/L1000612.jpg"
     },
     {
-      "height": 3467,
-      "compressed_path": "./photos/Delft Streets/DSCF6771.min.jpg",
-      "width": 4618,
+      "height": 3007,
+      "compressed_path": "./photos/Ulisses' Bonsais/L1000616.min.jpg",
+      "width": 5070,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets/DSCF6771.placeholder.jpg",
-      "path": "./photos/Delft Streets/DSCF6771.jpg"
+      "placeholder_path": "./photos/Ulisses' Bonsais/L1000616.placeholder.jpg",
+      "path": "./photos/Ulisses' Bonsais/L1000616.jpg"
     },
     {
-      "height": 4000,
-      "compressed_path": "./photos/Delft Streets/DSCF6862.min.jpg",
-      "width": 5328,
+      "height": 2250,
+      "compressed_path": "./photos/Ulisses' Bonsais/L1000658.min.jpg",
+      "width": 3088,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets/DSCF6862.placeholder.jpg",
-      "path": "./photos/Delft Streets/DSCF6862.jpg"
+      "placeholder_path": "./photos/Ulisses' Bonsais/L1000658.placeholder.jpg",
+      "path": "./photos/Ulisses' Bonsais/L1000658.jpg"
     },
     {
-      "height": 4608,
-      "compressed_path": "./photos/Delft Streets/DSCF7275.min.jpg",
-      "width": 3459,
+      "height": 2323,
+      "compressed_path": "./photos/Ulisses' Bonsais/L1000830.min.jpg",
+      "width": 2752,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets/DSCF7275.placeholder.jpg",
-      "path": "./photos/Delft Streets/DSCF7275.jpg"
+      "placeholder_path": "./photos/Ulisses' Bonsais/L1000830.placeholder.jpg",
+      "path": "./photos/Ulisses' Bonsais/L1000830.jpg"
     },
     {
-      "height": 4000,
-      "compressed_path": "./photos/Delft Streets/DSCF7310.min.jpg",
-      "width": 5831,
+      "height": 2096,
+      "compressed_path": "./photos/Ulisses' Bonsais/L1010183.min.jpg",
+      "width": 2096,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets/DSCF7310.placeholder.jpg",
-      "path": "./photos/Delft Streets/DSCF7310.jpg"
+      "placeholder_path": "./photos/Ulisses' Bonsais/L1010183.placeholder.jpg",
+      "path": "./photos/Ulisses' Bonsais/L1010183.jpg"
     },
     {
-      "height": 4000,
-      "compressed_path": "./photos/Delft Streets/DSCF7334.min.jpg",
-      "width": 5328,
+      "height": 2021,
+      "compressed_path": "./photos/Ulisses' Bonsais/L1010201.min.jpg",
+      "width": 2221,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets/DSCF7334.placeholder.jpg",
-      "path": "./photos/Delft Streets/DSCF7334.jpg"
+      "placeholder_path": "./photos/Ulisses' Bonsais/L1010201.placeholder.jpg",
+      "path": "./photos/Ulisses' Bonsais/L1010201.jpg"
     },
     {
-      "height": 3814,
-      "compressed_path": "./photos/Delft Streets/DSCF7406.min.jpg",
-      "width": 5080,
+      "height": 2167,
+      "compressed_path": "./photos/Ulisses' Bonsais/L1010203.min.jpg",
+      "width": 2221,
       "compressed": false,
-      "placeholder_path": "./photos/Delft Streets/DSCF7406.placeholder.jpg",
-      "path": "./photos/Delft Streets/DSCF7406.jpg"
+      "placeholder_path": "./photos/Ulisses' Bonsais/L1010203.placeholder.jpg",
+      "path": "./photos/Ulisses' Bonsais/L1010203.jpg"
     }
   ],
   "Delft Streets_description": [
-    "The following is my first street photography project. Delft is a small touristic city in the Netherlands that hosts the Delft University of Technology (TU Delft) where I am currently doing a PhD. Project time: 09-2020--now. <a href=\"https://kit.co/guzpenha/street-photography-kit\" target=\"_blank\" >My gear</a>."
+    "Delft is a small touristic city in the Netherlands that hosts the Delft University of Technology (TU Delft) where I am currently doing a PhD."
   ]
 }
