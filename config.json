@@ -1,36 +1,86 @@
 {
+  "Street - Colour": [
+    {
+      "height": 3015,
+      "compressed_path": "./photos/Street - Colour/L1000248.min.jpg",
+      "width": 4523,
+      "compressed": false,
+      "placeholder_path": "./photos/Street - Colour/L1000248.placeholder.jpg",
+      "path": "./photos/Street - Colour/L1000248.jpg"
+    },
+    {
+      "height": 3897,
+      "compressed_path": "./photos/Street - Colour/L1000716.min.jpg",
+      "width": 5846,
+      "compressed": false,
+      "placeholder_path": "./photos/Street - Colour/L1000716.placeholder.jpg",
+      "path": "./photos/Street - Colour/L1000716.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Street - Colour/L1010601.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Street - Colour/L1010601.placeholder.jpg",
+      "path": "./photos/Street - Colour/L1010601.jpg"
+    },
+    {
+      "height": 3534,
+      "compressed_path": "./photos/Street - Colour/L1020240.min.jpg",
+      "width": 5301,
+      "compressed": false,
+      "placeholder_path": "./photos/Street - Colour/L1020240.placeholder.jpg",
+      "path": "./photos/Street - Colour/L1020240.jpg"
+    },
+    {
+      "height": 4000,
+      "compressed_path": "./photos/Street - Colour/L1020508.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/Street - Colour/L1020508.placeholder.jpg",
+      "path": "./photos/Street - Colour/L1020508.jpg"
+    },
+    {
+      "height": 3264,
+      "compressed_path": "./photos/Street - Colour/R0240330.min.jpg",
+      "width": 4896,
+      "compressed": false,
+      "placeholder_path": "./photos/Street - Colour/R0240330.placeholder.jpg",
+      "path": "./photos/Street - Colour/R0240330.jpg"
+    }
+  ],
   "Street - Black & White": [
     {
-      "height": 3541,
-      "compressed_path": "./photos/Street - Black & White/DSCF5815.min.jpg",
-      "width": 4717,
+      "height": 4000,
+      "compressed_path": "./photos/Street - Black & White/L1010381.min.jpg",
+      "width": 6000,
       "compressed": false,
-      "placeholder_path": "./photos/Street - Black & White/DSCF5815.placeholder.jpg",
-      "path": "./photos/Street - Black & White/DSCF5815.jpg"
+      "placeholder_path": "./photos/Street - Black & White/L1010381.placeholder.jpg",
+      "path": "./photos/Street - Black & White/L1010381.jpg"
     },
     {
-      "height": 3125,
-      "compressed_path": "./photos/Street - Black & White/DSCF5959.min.jpg",
-      "width": 4167,
+      "height": 4000,
+      "compressed_path": "./photos/Street - Black & White/L1010909.min.jpg",
+      "width": 6000,
       "compressed": false,
-      "placeholder_path": "./photos/Street - Black & White/DSCF5959.placeholder.jpg",
-      "path": "./photos/Street - Black & White/DSCF5959.jpg"
+      "placeholder_path": "./photos/Street - Black & White/L1010909.placeholder.jpg",
+      "path": "./photos/Street - Black & White/L1010909.jpg"
     },
     {
-      "height": 1538,
-      "compressed_path": "./photos/Street - Black & White/DSCF6862.min.jpg",
-      "width": 2048,
+      "height": 3831,
+      "compressed_path": "./photos/Street - Black & White/L1020254.min.jpg",
+      "width": 5746,
       "compressed": false,
-      "placeholder_path": "./photos/Street - Black & White/DSCF6862.placeholder.jpg",
-      "path": "./photos/Street - Black & White/DSCF6862.jpg"
+      "placeholder_path": "./photos/Street - Black & White/L1020254.placeholder.jpg",
+      "path": "./photos/Street - Black & White/L1020254.jpg"
     },
     {
-      "height": 1538,
-      "compressed_path": "./photos/Street - Black & White/DSCF7442.min.jpg",
-      "width": 2048,
+      "height": 4000,
+      "compressed_path": "./photos/Street - Black & White/L1020545.min.jpg",
+      "width": 6000,
       "compressed": false,
-      "placeholder_path": "./photos/Street - Black & White/DSCF7442.placeholder.jpg",
-      "path": "./photos/Street - Black & White/DSCF7442.jpg"
+      "placeholder_path": "./photos/Street - Black & White/L1020545.placeholder.jpg",
+      "path": "./photos/Street - Black & White/L1020545.jpg"
     },
     {
       "height": 2789,

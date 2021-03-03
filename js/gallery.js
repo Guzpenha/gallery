@@ -270,7 +270,7 @@ class HorizontalRenderer extends Renderer {
     if (config.shuffle) {
       shuffle(photos);
     }
-    // var sectionElem = this.createHeader(section, config.data[section+"_description"]);
+    var sectionElem = this.createHeader(section, config.data[section+"_description"]);
 
     while (photos.length > 0) {
       var maxWidth = config.spacing * -1;
