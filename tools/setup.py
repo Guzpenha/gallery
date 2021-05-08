@@ -56,7 +56,7 @@ def get_images(path):
     filtered_items = list(filter(is_original, items))
 
     result = []
-    for img in filtered_items:
+    for img in sorted(filtered_items, reverse=True):
         width, height = 0, 0
         has_compressed = False
         p = './' + RELATIVE_PATH + '/' + path + '/' + img
@@ -86,7 +86,7 @@ def run():
     config = {}
     dirs = get_directories()
     print('Found {length} directories'.format(length=len(dirs)))
-    for i, path in enumerate(dirs):
+    for i, path in enumerate(sorted(dirs)):
         print(str(i+1) + ': Processing photos for the album "{album}"'.format(
             album=path))
         config[path], _ = get_images(path)
